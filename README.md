@@ -12,7 +12,7 @@ Install all the required modules using requirements.txt file.
 
 Step 2:
 
-Make a folder with namr Training images and
+Make a folder with name Training images and
 Add images to the Training images folder.
 
 Step 3:
