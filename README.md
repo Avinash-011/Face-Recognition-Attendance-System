@@ -17,3 +17,6 @@ Add images to the Training images folder.
 Step 3:
 
 Run the main.py file.
+
+
+Author: Avinash Kumar
