@@ -1,4 +1,5 @@
-streamlit==1.64.0
-numpy<2
+streamlit
+face-recognition
+opencv-python-headless
+numpy
 Pillow
-pandas
