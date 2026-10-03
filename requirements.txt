@@ -2,3 +2,4 @@ streamlit==1.64.0
 numpy<2
 Pillow
 pandas
+face-recognition==1.3.0
